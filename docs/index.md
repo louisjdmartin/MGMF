@@ -33,3 +33,4 @@ Si un dé normal vaut ⑥ les effets du tour spécial **ET** de l'attribution du
 - [★★ Somme = 7: Dieu attaque le village](special/attaque)
 - ④② & ⑤①: Tout le monde boit la valeur du dé spécial
 - ⑥① à ⑥⑥: On distribue la valeur du dé normal le plus faible.
+- ⑥③: Tout les auvergnats boivent le dé spécial (adaptez cette règle avec votre département si besoin)
